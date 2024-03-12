@@ -1,7 +1,7 @@
 {
   "homepage": "https://github.com/raunak-111/Background-Changer-React",
   "name": "bgchanger",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
